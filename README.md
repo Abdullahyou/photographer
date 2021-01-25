@@ -1,5 +1,5 @@
 # photographer
-it is like a programing company, i used HTML, css, Jquery 1.11.3 and i use bx-slider, and font awesome 
+it is a photographer webaite, i used HTML, css and Jquery 1.11.3  
 
 # Screenshots
 
